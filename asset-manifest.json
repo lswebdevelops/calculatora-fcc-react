@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/calculadora-fcc-react/static/css/main.88583216.css",
-    "main.js": "/calculadora-fcc-react/static/js/main.917fdb9b.js",
-    "static/media/freecodecamp-logo.png": "/calculadora-fcc-react/static/media/freecodecamp-logo.5486935b905c7949600c.png",
-    "index.html": "/calculadora-fcc-react/index.html",
-    "main.88583216.css.map": "/calculadora-fcc-react/static/css/main.88583216.css.map",
-    "main.917fdb9b.js.map": "/calculadora-fcc-react/static/js/main.917fdb9b.js.map"
+    "main.css": "/calculatora-fcc-react/static/css/main.88583216.css",
+    "main.js": "/calculatora-fcc-react/static/js/main.9ed46a1c.js",
+    "static/media/freecodecamp-logo.png": "/calculatora-fcc-react/static/media/freecodecamp-logo.5486935b905c7949600c.png",
+    "index.html": "/calculatora-fcc-react/index.html",
+    "main.88583216.css.map": "/calculatora-fcc-react/static/css/main.88583216.css.map",
+    "main.9ed46a1c.js.map": "/calculatora-fcc-react/static/js/main.9ed46a1c.js.map"
   },
   "entrypoints": [
     "static/css/main.88583216.css",
-    "static/js/main.917fdb9b.js"
+    "static/js/main.9ed46a1c.js"
   ]
 }
